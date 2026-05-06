@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Generated output
+results/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
